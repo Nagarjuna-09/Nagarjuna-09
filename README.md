@@ -27,3 +27,6 @@
 Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
 
 Reach me on nnathan1@binghamton.edu, nagarjunanathani434@gmail.com
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
