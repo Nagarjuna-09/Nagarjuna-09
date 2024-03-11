@@ -18,3 +18,7 @@
     <img src="https://skillicons.dev/icons?i=py,aws,azure,gcp,bash,anaconda,eclipse,git,kubernetes,linux,postgres,tensorflow,docker,spark" />
   </a>
 </p>
+
+💬 Ask me about = ["Python", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
+
+Reach me on nnathan1@binghamoton.edu, nagarjunanathani434@gmail.com
