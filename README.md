@@ -1,3 +1,7 @@
+<!-- Viewer Counter -->
+<img align="right" src="https://komarev.com/ghpvc/?username=Nagarjuna-09&style=plastic&color=green&label=Curious+Views">
+<!-- END Viewer Counter -->
+
 ### Hi there, I'm Nagarjuna Nathani👋
 
 
