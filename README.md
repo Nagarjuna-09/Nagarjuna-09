@@ -26,4 +26,4 @@
 
 Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
 
-Reach me on nnathan1@binghamoton.edu, nagarjunanathani434@gmail.com
+Reach me on nnathan1@binghamton.edu, nagarjunanathani434@gmail.com
