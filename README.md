@@ -11,7 +11,7 @@
 
 ## 🧰 Languages, Packages, Developer Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,gcp,bash,anaconda,eclipse,git,kubernetes,linux,postgres,tensorflow)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,gcp,bash,anaconda,eclipse,git,kubernetes,linux,postgres,tensorflow)](https://skillicons.dev) -->
 
 <p align="center">
   <a href="https://skillicons.dev">
