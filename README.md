@@ -4,6 +4,8 @@
 
 ### Hi there, I'm Nagarjuna Nathani👋
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=6000&center=true&vCenter=true&size=22&pause=200&color=1FFF70&background=000000&width=1200&lines=I+build+scalable+big+data+applications+at+enterprise+scale+to+enable+innovations+with+data;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg)
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=6000&center=true&vCenter=true&size=22&pause=200&color=1FFF70&background=000000&width=1200&lines=I+build+enterprise+scale+big+data+applications+to+enable+innovations+with+data;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg)
 
