@@ -27,7 +27,7 @@
 Check out my <code><a href="https://nagarjuna-09.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=website&message=Portfolio&color=white" alt="Portfolio" style="width: 120px;"></a></code>
 
 
-Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
+<!--Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)-->
 
 Reach me on nnathan1@binghamton.edu, nagarjunanathani434@gmail.com
 
