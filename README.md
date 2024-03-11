@@ -24,7 +24,7 @@
 
 💬 Ask me about = ["Python", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
 
-Check out my  <a href="https://nagarjuna-09.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" style="vertical-align:top; margin:7px"> </a>
+Check out my  <code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=&color=white)](https://nagarjuna-09.github.io/Portfolio/)</code>
 
 Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
 
