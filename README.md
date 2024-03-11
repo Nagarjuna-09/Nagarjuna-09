@@ -15,6 +15,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,azure,gcp,bash,anaconda,eclipse,git,kubernetes,linux,postgres,tensorflow,docker" />
+    <img src="https://skillicons.dev/icons?i=py,aws,azure,gcp,bash,anaconda,eclipse,git,kubernetes,linux,postgres,tensorflow,docker,spark" />
   </a>
 </p>
