@@ -31,6 +31,6 @@ Reach me on nnathan1@binghamton.edu, nagarjunanathani434@gmail.com
 <!-- ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light) -->
 
-## Most Used Language
+<!--## Most Used Language
 | ![Top Langs-Last Month](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarjuna-09&size_weight=0.5&count_weight=0.5&langs_count=12) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarjuna-09&layout=donut-vertical&langs_count=40) |
-| :------------: | :--------------: |
+| :------------: | :--------------: | --->
