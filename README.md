@@ -24,9 +24,6 @@
 
 💬 Ask me about = ["Python", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
 
-Check out my  <code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&color=white&logoWidth=20)](https://nagarjuna-09.github.io/Portfolio/)</code>
-
-
 Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
 
 Reach me on nnathan1@binghamton.edu, nagarjunanathani434@gmail.com
