@@ -22,7 +22,7 @@
   </a>
 </p>
 
-💬 Ask me about = ["Python", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
+💬 Ask me about = ["Python", "Spark", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
 
 
 Check out my [Portfolio](https://nagarjuna-09.github.io/Portfolio/)
